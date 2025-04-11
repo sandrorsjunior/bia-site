@@ -1,4 +1,5 @@
 import React, { useEffect, useState, useRef } from "react";
+import "./style.css";
 
 export const Map = () => {
   const [data, setData] = useState([]);
@@ -53,7 +54,9 @@ export const Map = () => {
           stroke="none"
         >
           {data.map((p, index) => (
-            <path key={index} d={p.d} title={p.title} id={p.id} />
+            <path 
+                className={p.region}
+                key={p.id} d={p.d} title={p.title} id={p.id} />
           ))}
         </g>
       </svg>
