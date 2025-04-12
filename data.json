@@ -1,0 +1,102 @@
+[
+    {
+        "region": "lisbon",
+        "title": "Lisboa – Lavanda",
+        "artista": "[Nome do Artista]",
+        "fragrancia": "Lavanda – notas suaves e nostálgicas.",
+        "ilustracao": "Casa de azulejos azuis com roupa estendida e elétrico ao fundo.",
+        "cores": ["Lavanda", "Azul cerúleo", "Branco"],
+        "musica": "Guitarra portuguesa leve.",
+        "tom": "Calmo, melancólico, poético.",
+        "frase_final": "Lisboa, onde a memória tem cheiro de lavanda."
+      },
+      {
+        
+        "region": "alentejo",
+        "title": "Alentejo – Favorito (Figo & Lavanda)",
+        "artista": "[Nome do Artista]",
+        "fragrancia": "Favorito – notas doces e herbáceas.",
+        "ilustracao": "Campo de figueiras com casas caiadas e céu aberto.",
+        "cores": ["Branco", "Lavanda", "Verde seco"],
+        "musica": "Cante alentejano suave.",
+        "tom": "Quente, expansivo, meditativo.",
+        "frase_final": "Alentejo, onde o tempo amadurece o aroma da terra."
+      },
+      {
+        "region": "",
+        "title": "Açores – Cerina (Marinho Floral)",
+        "artista": "[Nome do Artista]",
+        "fragrancia": "Cerina – floral aquático.",
+        "ilustracao": "Hortênsias gigantes num caminho costeiro com bruma ao fundo.",
+        "cores": ["Azul atlântico", "Lilás", "Cinza-claro"],
+        "musica": "Ondas, gaivotas, silêncio vulcânico.",
+        "tom": "Sonhador, misterioso, fresco.",
+        "frase_final": "Açores, onde o mar encontra as flores."
+      },
+      {
+        "region": "douro",
+        "title": "Douro – Musgo Real",
+        "artista": "[Nome do Artista]",
+        "fragrancia": "Musgo Real – Alto Mar ou Spiced Citrus",
+        "ilustracao": "Terraços de vinhas ao pôr-do-sol com o rio Douro serpenteando.",
+        "cores": ["Verde escuro", "Dourado", "Vinho tinto"],
+        "musica": "Sons de comboio e rio.",
+        "tom": "Forte, tradicional, masculino.",
+        "frase_final": "Douro: terra esculpida a musgo e vinho."
+      },
+      {
+        "region": "minho",
+        "title": "Minho – Banho (citrino & verde)",
+        "artista": "[Nome do Artista]",
+        "fragrancia": "Banho – cítrico e fresco.",
+        "ilustracao": "Paisagem com vinha verdejante e neblina da manhã.",
+        "cores": ["Verde lima", "Azul chuva", "Branco pérola"],
+        "musica": "Sons de chuva e folhas ao vento.",
+        "tom": "Refrescante, natural, revigorante.",
+        "frase_final": "Minho: verde que respira e perfuma."
+      },
+      {
+        "region": "serra-estrela",
+        "title": "Serra da Estrela – Voga (Talco & Neve)",
+        "artista": "[Nome do Artista]",
+        "fragrancia": "Voga – notas suaves de talco e flor de laranjeira.",
+        "ilustracao": "Riacho gelado e pedra granítica coberta de neve.",
+        "cores": ["Branco neve", "Cinza pedra", "Laranja pálido"],
+        "musica": "Som de vento nas árvores.",
+        "tom": "Puro, minimalista, delicado.",
+        "frase_final": "Serra da Estrela, o perfume da paz."
+      },
+      {
+        "region": "algarve",
+        "title": "Algarve – Elite (Amêndoas & Sol)",
+        "artista": "[Nome do Artista]",
+        "fragrancia": "Elite – floral, quente, com notas de amêndoas.",
+        "ilustracao": "Amendoeiras em flor, praia ao fundo e calçada algarvia.",
+        "cores": ["Rosa pálido", "Areia dourada", "Azul céu"],
+        "musica": "Solos suaves com som de cigarras.",
+        "tom": "Solar, doce, leve.",
+        "frase_final": "Algarve, onde o verão tem aroma de flor."
+      },
+      {
+        "region": "ribatejo",
+        "title": "Ribatejo – Deco (Rosas & Campo)",
+        "artista": "[Nome do Artista]",
+        "fragrancia": "Deco – floral, rosado.",
+        "ilustracao": "Campos de rosas e touros ao fundo numa planície dourada.",
+        "cores": ["Rosa escuro", "Castanho", "Dourado"],
+        "musica": "Sons de feira, cavalos e vento.",
+        "tom": "Romântico, rural, expressivo.",
+        "frase_final": "Ribatejo, entre o perfume da terra e das flores."
+      },
+      {
+        "region": "madeira",
+        "title": "Madeira – Agua de Colonia (Cítrica Floral)",
+        "artista": "[Nome do Artista]",
+        "fragrancia": "Água de Colónia – cítrica, luminosa.",
+        "ilustracao": "Jardins botânicos e levadas com laranjeiras e buganvílias.",
+        "cores": ["Laranja", "Verde", "Roxo intenso"],
+        "musica": "Sons tropicais da ilha.",
+        "tom": "Vibrante, perfumado, festivo.",
+        "frase_final": "Madeira, o jardim perfumado de Portugal."
+      }
+]
