@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 95vw;
+
+    padding: 10px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    width: 70%;
+}

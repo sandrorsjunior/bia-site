@@ -32,3 +32,22 @@
   stroke: #333;
   stroke-width: 2;
 }
+.madeira{
+  fill: #edca05;
+stroke: #333;
+stroke-width: 2;
+}
+.ribatejo{
+  fill: #de1a27;
+stroke: #333;
+stroke-width: 2;
+}
+
+path:hover {
+  fill: #000000;
+  stroke: #ffffff;
+}
+
+#map{
+  display: flex;
+}

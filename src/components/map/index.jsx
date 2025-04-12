@@ -1,7 +1,7 @@
 import React, { useEffect, useState, useRef } from "react";
 import "./style.css";
 
-export const Map = () => {
+export const Map = ({setRegeionCurrent}) => {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -39,8 +39,7 @@ export const Map = () => {
   if (error) return <div>Error: {error}</div>;
 
   return (
-    <div id="map">
-      <svg
+    <svg
         version="1.0"
         xmlns="http://www.w3.org/2000/svg"
         height="100vh"
@@ -55,11 +54,11 @@ export const Map = () => {
         >
           {data.map((p, index) => (
             <path 
+                onClick={()=>setRegeionCurrent(p.region)}
                 className={p.region}
                 key={p.id} d={p.d} title={p.title} id={p.id} />
           ))}
         </g>
       </svg>
-    </div>
   );
 };
